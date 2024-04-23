@@ -31,6 +31,6 @@ Added below dependcies in the services:
   Calling User service via postman, User service calls role service and department service and send consolidated response
   </h1>
   <br>
-    <img src="https://github.com/sathees-saty/springboot-Microservices-Communication/assets/65384711/40deb62d-4afe-450f-827e-5ec9c29a8670" alt="springboot" width="800" height="600">
+    <img src="https://github.com/sathees-saty/springboot-Microservices-Communication/assets/65384711/40deb62d-4afe-450f-827e-5ec9c29a8670" alt="Postman" width="800" height="600">
 <br>
 </html>
